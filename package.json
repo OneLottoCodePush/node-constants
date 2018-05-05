@@ -1,5 +1,5 @@
 {
-  "name": "node-constants",
+  "name": "constants",
   "description": "Small library for defining constants for your modules",
   "author": "Dominic Barnes <dominic@dbarnes.info>",
   "keywords": [
